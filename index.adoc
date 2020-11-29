@@ -4,7 +4,7 @@
 
 Djinni is a specification for a interface definition language, sample implementation of a code generator and required glue libraries to connect {cpp} with other programing languages, like, for example, Java or Objective-C.
 
-Original developed by [Dropbox, Djinni](https://github.com/dropbox/djinni) maintenance of the original project ended in March 2020.
+Original developed by https://github.com/dropbox/djinni[Dropbox, Djinni] maintenance of the original project ended in March 2020.
 This fork wants to give Djinni a second life by transforming it to a community-driven project.
 
 == The cross-platform-cpp project
@@ -48,7 +48,7 @@ This is just a personal extension, a fast hack to make something work, not good 
 These are all common reasons for not publishing code, and we think that they are not correct or should not be an impediment for not pushing changes back upstream.
 
 Release early, release often, if something is not good enough, it will either be not used or fixed.
-Open source evolution will care about. But the essential requirement is, make the code available.
+Open source evolution will care about. But the essential requirement is, make the changes available.
 
 There is nothing to lose, but everything to win.
 
@@ -59,9 +59,9 @@ There is nothing to lose, but everything to win.
 As mentioned, one of the goals of the project is to establish a structure that ensures the availability of the project over time.
 For this to happen, maintainer are needed.
 
-Being a maintainer:
+For being a maintainer, we think the following points are important.
 
-Be available (as your time allows):
+Be available and responsive (as your time allows):
 Respond in time to user request, or just be there when your time allows it.
 A reply _I do not know now but I will come back_ is better than no reply for people that visit the project.
 
@@ -70,9 +70,7 @@ If you admit to do something, please do not disappear without any notice.
 
 Be consistent (for some time):
 It is common that people pop in full with ideas and energy, and this is great and such people are usual great contributors!
-But for a maintainer role it is also important to be consistent for more than just a few days or until 1 issue is realized or solved.
-
-
+But for a maintainer role it is also important to be consistent for more than just a few days or until 1 issue is realized or solved. No one expects commitment of a live time, but by taking a maintainer maybe for more than one week.
 
 
 
